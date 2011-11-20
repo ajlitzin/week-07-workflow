@@ -1,6 +1,8 @@
 source "http://rubygems.org"
 
 gem "workflow"
+gem "rb-notifu"
+gem "rb-fchange"
 
 group :development, :test do
   gem "rspec"

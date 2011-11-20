@@ -1,0 +1,2 @@
+unapproved(approve)<->approved(publish,unapprove)->published(retire)->retired
+proposal(submit_to_peers)<->under peer review(peer approved, peer_rejected)->under manager review(approved(man_approve, revise)->ready_for_deploy(deploy)->deployed
